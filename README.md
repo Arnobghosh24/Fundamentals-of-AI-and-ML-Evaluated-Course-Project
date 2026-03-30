@@ -10,19 +10,19 @@ This project aims to resolve a specific problem or need by utilizing fundamental
 
 ### ❗ Problem
 A problem faced by most students, including:
-- Keeping track of actual study time
+- Keeping  track of actual study time
 - Being consistent with study goals
 - Understanding how productive they are
 
 ### ✅ Solution
 A program that allows a user to:
-- Write study hours
+- Write study hour
 - View total productivity
-- View study history
-- Set and maintain weekly targets
-- Reset all information as and when required
+- View study histories
+- Set and maintain weekly target
+- Reset all informations as and when required
 
-### 🚀 Features
+### 🚀 Feature
 - Log time a student has studied
 - View his/her study time
 - View his/her study history
@@ -59,15 +59,10 @@ A program that allows a user to:
 - Handling user input
 - Creating real-world command-line apps
 
-### ⚠️ Limitations
-
-- No GUI
-- For single users
-- Stores data in plain text format
-
 ### 🔮 Future Improvements
 
 - Date-wise tracking
 - Reports
 - Visualization
+- Add GUI to the whole program to enhance it's productivity
 - Can be converted to a web app or mobile app
