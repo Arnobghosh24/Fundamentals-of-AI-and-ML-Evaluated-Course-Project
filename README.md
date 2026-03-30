@@ -1,7 +1,7 @@
 ## Fundamentals-of-AI-and-ML-Evaluated-Course-Project
 A command-line based Python application to track study hours, monitor productivity, and achieve weekly goals using simple file handling.
 
-## 📘 Student Productivity Tracker (CLI - Python)
+## 📘 Student Productivity Tracker
 
 ### 📌 Overview
 A simple command line-based Python program designed to help students keep track of their study time and maintain a productive week.
